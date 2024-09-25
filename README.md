@@ -8,3 +8,4 @@ This code has been tested with Python 3.10.12 and the following library versions
 If you have any comments or suggestions, feel free to reach out.
 
 Rafael Dolezal
+![HMM_VAMP2_score_clustering](https://github.com/user-attachments/assets/832a7345-5a5d-4988-84af-df5409840a22)
